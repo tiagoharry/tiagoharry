@@ -2,10 +2,10 @@
 
 #### About 
 
-I'm a web developer and I'm studing web development at [Rocketseat](https://www.rocketseat.com.br/)
+I'm a web developer currently working on Teasy Solution
 
 #### Current stack 
-- Frontend: HTML5, CSS3, JavaScript
+- Frontend: HTML5, CSS3, JavaScript, React.js, Styled-Component, Next.js, Tailwind
 - Tools: VsCode
 
 #### Contacts 
