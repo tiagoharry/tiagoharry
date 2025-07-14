@@ -1,9 +1,5 @@
 ### Hi there, I'm Tiago de Assis
 
-#### About 
-
-I'm a web developer currently working on Teasy Solutions
-
 #### Current stack 
 - Frontend: HTML5, CSS3, JavaScript, React.js, Styled-Component, Next.js, Tailwind
 - Tools: VsCode
